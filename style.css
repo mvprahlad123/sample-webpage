@@ -1,0 +1,21 @@
+@media(min-width: 768px) {
+    .news-input {
+        width: 50%;
+    }
+}
+
+body::before {
+    display: block;
+    content: '';
+    height: 60px;
+}
+
+#gmap_canvas {
+    border-radius: 10px;
+}
+
+#icons {
+    font-size: 64px;
+    /* width: 32px;
+    height: 32px; */
+}
